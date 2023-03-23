@@ -1,0 +1,17 @@
+{
+  "name": "DARK-BOT",
+  "description": "REPUBLICA DE LACRAS",
+  "logo": "https://raw.githubusercontent.com/Clash538/imagen-carlosbotsit/main/Menu2.png",
+  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
+  "buildpacks": [
+  {
+    "url": "heroku/nodejs"
+  },
+  {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  },
+  {
+    "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+  }    
+ ]
+}
