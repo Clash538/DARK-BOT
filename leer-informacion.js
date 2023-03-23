@@ -11,7 +11,7 @@
  > pkg install imagemagick -y
  > pkg install yarn
  > git clone https://github.com/Clash538/DARK-BOT.git
- > cd DORRAT-TERMUX 
+ > cd DARK-BOT
  > npm install 
  > yarn install 
  > npm install
