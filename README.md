@@ -3,9 +3,13 @@
 BIENVENIDOS LES DA LA REPUBLICA DE LACRAS
 CODIGOS PARA INSTALAR DEBEN DE SEGUIR LOS CODIGOS UNO POR UNO. NO TODOS A LA VEZ
 
-/*AQUI ENCONTRARAN LA APLICACIÓN DE TERMUX*/
+/*AQUI ENCONTRARAN LA APLICACIÓN DE 🟡TERMUX🟡*/
+
 https://play.google.com/store/apps/details?id=com.termux
-DEBEN INSTALARLA Y DSRLE EN PERMITIR EL USO DE ARCHIVO 📂 🗄️
+
+..todos los derechos reservados a termux❗
+
+⚠️NOTA⚠️...DEBEN INSTALARLA Y DSRLE EN PERMITIR EL USO DE ARCHIVO 📂 🗄️
 
 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 AH INTRODUCIR EN TERMUX
 
@@ -42,7 +46,8 @@ DEBEN INSTALARLA Y DSRLE EN PERMITIR EL USO DE ARCHIVO 📂 🗄️
 > npm start
 
 
-recordar!!!
-cada vez que alla un error deben de dar tiempo para encontrarlo y una ves encontrado el error sera solucionado se les quiere 
+⚠️NOTA DE RECORDATOR❗❗
+
+Cada vez que alla un error deben de dar tiempo para encontrarlo y una ves encontrado el error sera solucionado se les quiere 
 
 
