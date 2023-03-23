@@ -15,6 +15,12 @@ CODIGOS PARA INSTALAR DEBEN DE SEGUIR LOS CODIGOS UNO POR UNO. NO TODOS A LA VEZ
 
 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 AH INTRODUCIR EN TERMUX
 
+
+let (termux) = DARK-BOT;
+console.log(termux)
+
+
+
 > cd
 
 > termux-setup-storage
