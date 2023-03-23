@@ -25,22 +25,22 @@ return `
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]
 let buttonMessage= {
-'document': { url: `https://github.com/DIEGO-OFC/DORRAT-BOT-MD` },
+'document': { url: `https://github.com/Clash538/DARK-BOT` },
 'mimetype': `application/${document}`,
-'fileName': `𝐷𝑂𝑅𝑅𝐴𝑇-𝐵𝑂𝑇-𝑀𝐷`,
+'fileName': `DARK-BOT-OFC`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/DIEGO-OFC/DORRAT-BOT-MD',
+'mediaUrl': 'https://github.com/Clash538/DARK-BOT',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': `• Resultados Encontrados🔎`,
 'body': global.author,
 'thumbnail': await (await fetch(json.items[0].owner.avatar_url)).buffer(),
-'sourceUrl': 'https//wa.me/593959425714'}},
+'sourceUrl': 'https//wa.me/584129763459'}},
 'caption': str,
 'footer': `• 𝚂𝙸 𝙳𝙴𝚂𝙴𝙰 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚁 𝚄𝙽\n*𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸𝙾 𝙳𝙴 𝙶𝙸𝚃𝙷𝚄𝙱*\n*𝙴𝚂𝙲𝚁𝙸𝙱𝙰 ${usedPrefix}gitclone <LINK>*`,
 'buttons':[
