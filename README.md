@@ -32,9 +32,7 @@ CODIGOS PARA INSTALAR DEBEN DE SEGUIR LOS CODIGOS UNO POR UNO. NO TODOS A LA VEZ
 > pkg install imagemagick -y
 
 > pkg install yarn
-
-> git clone https://github.com/Clash538/DARK-BOT.git
-
+> git clone https://github.com/Clash538/DARK-BOT
 > cd DARK-BOT
 
 > yarn install 
