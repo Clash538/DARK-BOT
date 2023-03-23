@@ -13,7 +13,7 @@ let text = `
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/Clash538/DARK-BOT.git
-> cd DAR-BOT
+> cd DARK-BOT
 > yarn install 
 > npm install
 > npm update
