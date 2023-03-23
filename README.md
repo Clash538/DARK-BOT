@@ -17,7 +17,7 @@ CODIGOS PARA INSTALAR DEBEN DE SEGUIR LOS CODIGOS UNO POR UNO. NO TODOS A LA VEZ
 
 
 let (termux) = DARK-BOT;
-tex(termux)
+comsole.log(termux)
 
 
 
