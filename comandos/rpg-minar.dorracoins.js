@@ -5,7 +5,7 @@ let d = Math.floor(Math.random() * 10)
 global.db.data.users[m.sender].dorracoins += d * 1  
 //let hasil = Math.floor(Math.random() * 2000)
 let time = global.db.data.users[m.sender].lastdiamantes + 600000
-if (new Date - global.db.data.users[m.sender].lastdiamantes < 600000) throw `*⏱️ Vuelva en ${msToTime(time - new Date())} para continuar minando DorratCoins ⛏️*`  
+if (new Date - global.db.data.users[m.sender].lastdiamantes < 600000) throw `*⏱️ Vuelva en ${msToTime(time - new Date())} para continuar minando Bolivares ⛏️*`  
 
 conn.sendButton(m.chat, `*${minar} ${d} DORRAT-COINS*`, wm3, pp, 
 [
@@ -19,8 +19,8 @@ global.db.data.users[m.sender].lastdiamantes = new Date * 1
 
 }
 handler.help = ['minar']
-handler.tags = ['dorratcoins']
-handler.command = ['minardorracoins', 'miming4', 'mine4', 'minarcoins', 'minarcoims', 'minardorrecoins'] 
+handler.tags = ['Dolares']
+handler.command = ['minarDolares', 'miming4', 'mine4', 'minarcoins', 'minarcoims', 'minardolares'] 
 handler.fail = null
 handler.exp = 0
 export default handler
