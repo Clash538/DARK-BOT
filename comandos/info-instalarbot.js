@@ -2,9 +2,9 @@ import fs from 'fs'
 let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let text = `
 
-*—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*
+—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*
 > cd
-> termux-setup-storage
+termux-setup-storange
 > apt update 
 > pkg upgrade 
 > pkg install git -y
@@ -12,7 +12,7 @@ let text = `
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/Clash538/DARK-BOT.git
+> git clone https://github.com/Clash538/DARK-BOT
 > cd DARK-BOT
 > yarn install 
 > npm install
