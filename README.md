@@ -12,6 +12,8 @@ by 𝕮𝖆𝖗𝖑𝖔𝖘-𝖔𝖋𝖈
 ┕──━──━────────┑◆┍────────━──━──┙
 
 
+
+
 ▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
 
 /*AQUI ENCONTRARAN LA APLICACIÓN DE 🟡TERMUX🟡*/
@@ -21,6 +23,8 @@ https://play.google.com/store/apps/details?id=com.termux
 ..todos los derechos reservados a termux❗
 
 ▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
+
+
 
 ⚠️NOTA⚠️...DEBEN INSTALARLA Y DARLE EN PERMITIR EL USO DE ARCHIVO 📂 🗄️
 
@@ -79,18 +83,32 @@ termux-setup-storange
 
 
 *╭━━❍𝕯𐊅ℜ𝖐-𝕭𝖔𝖙⍉ꤲ❍━━╮
+
 *┃ ┃ │❍  ACTUALIZACIÓN ❍*
+
 *┃╭━━━━━━━━━━━━━━━━╾•*
+
 *┃┃  ⋄ CORRECCIÓN DE ERRORES:
+
 *┃┃ ❍ ya se pueden escuchar los audios   ❍*
+
 *┃┃  ❍  ❍*
+
 *┃┃  ⋄ NUEVAS FUNCIONES:
+
 *┃┃ ❍ Se a agregado nuevo audio barnei ❍*
+
 *┃┣━━━━━━━━━━━━━━━━╾•*
+
 *┃┃ ⋄ 𝕮𝖆𝖗𝖑𝖔𝖘-𝖔𝖋𝖈*
+
+
 *┃┃ ⋄ 𝕯𝖎𝖘𝖙𝖗𝖎𝖙𝖔 𝖉𝖊 𝖕𝖚𝖗𝖆𝖘 𝖑𝖆𝖈𝖗𝖆𝖘
+
 *┃╰━━━━━━━━━━━━━━━━╾•*
+
 *╰━━━╼𝕯𐊅ℜ𝖐-𝕭𝖔𝖙⍉ꤲ╾━━━╯*
+
 
 ◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
 
