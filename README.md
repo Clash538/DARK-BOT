@@ -14,9 +14,9 @@ by 𝕮𝖆𝖗𝖑𝖔𝖘-𝖔𝖋𝖈
 
 ❖
 
-❖
 
-❖
+
+
 
 ````bash
 
@@ -33,9 +33,9 @@ https://play.google.com/store/apps/details?id=com.termux
 
 ❖
 
-❖
 
-❖
+
+
 ````bash
 ⚠️NOTA⚠️...DEBEN INSTALARLA Y DARLE EN PERMITIR EL USO DE ARCHIVO 📂 🗄️
 
@@ -46,7 +46,7 @@ CODIGOS PARA INSTALAR DEBEN DE SEGUIR LOS CODIGOS UNO POR UNO. NO TODOS A LA VEZ
 
 ❖
 
-❖
+
 
 ■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■
 
@@ -90,9 +90,9 @@ termux-setup-storange
 
 ❖
 
-❖
 
-❖
+
+
 ````bash
 ⚠️NOTA DE RECORDATOR❗❗
 
@@ -101,7 +101,7 @@ termux-setup-storange
 
 ❖
 
-❖
+
 ````bash
 *╭━━❍𝕯𐊅ℜ𝖐-𝕭𝖔𝖙⍉ꤲ❍━━╮
 
@@ -132,7 +132,7 @@ termux-setup-storange
 ````
 ❖
 
-❖
+
 
 ◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
 ````bash
