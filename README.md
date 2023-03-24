@@ -2,19 +2,24 @@
 ![image](https://user-images.githubusercontent.com/118075131/227137187-79f9a514-b1b7-4c1e-bff6-371976ffea49.png)
 
 ┍──━──━─────────┙◆┕───────━──━──┑
+
 BIENVENIDO SEAN TODOS DE PARTE DE "💲💲LA REPUBLICA DE LACRAS💲💲"
 
 by 𝐇𝐄𝐑𝐌𝐀𝐍𝐃𝐀 𝐃𝐄 𝐀𝐂𝐄𝐑𝐎
 
 by 𝕮𝖆𝖗𝖑𝖔𝖘-𝖔𝖋𝖈
+
 ┕──━──━────────┑◆┍────────━──━──┙
 
+
 ▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
+
 /*AQUI ENCONTRARAN LA APLICACIÓN DE 🟡TERMUX🟡*/
 
 https://play.google.com/store/apps/details?id=com.termux
 
 ..todos los derechos reservados a termux❗
+
 ▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
 
 ⚠️NOTA⚠️...DEBEN INSTALARLA Y DARLE EN PERMITIR EL USO DE ARCHIVO 📂 🗄️
