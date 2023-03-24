@@ -93,8 +93,9 @@ termux-setup-storange
 
 
 `⚠️NOTA DE RECORDATOR❗❗`
-
-````bash◥◢◣◤Cada vez que alla un error deben de dar tiempo para encontrarlo y una ves encontrado el error sera solucionado se les quiere ◢◥◤◣````
+````bash
+◥◢◣◤Cada vez que alla un error deben de dar tiempo para encontrarlo y una ves encontrado el error sera solucionado se les quiere ◢◥◤◣
+````
 
 
 ❖
