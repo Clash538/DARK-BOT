@@ -3,7 +3,7 @@
 
 ┍──━──━─────────┙◆┕───────━──━──┑
 
-BIENVENIDO SEAN TODOS DE PARTE DE "💲💲LA REPUBLICA DE LACRAS💲💲"
+BIENVENIDO SEAN TODOS DE PARTE DE "💲💲DISTRITO DE PURAS LACRAS💲💲"
 
 by 𝐇𝐄𝐑𝐌𝐀𝐍𝐃𝐀 𝐃𝐄 𝐀𝐂𝐄𝐑𝐎
 
