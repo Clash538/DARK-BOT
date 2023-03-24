@@ -316,6 +316,12 @@ if (!chat.isBanned && chat.audios && m.text.match(/(yo quiero|fumado)/gi)) {
     let vn = './media/yoquiero.mp3'
     this.sendPresenceUpdate('recording', m.chat)
     this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+ if (!chat.isBanned && chat.audios && m.text.match(/(barnei|varni|barny|barni)/gi)) {
+    let vn = './media/barnei.mp3'
+    this.sendPresenceUpdate('recording', m.chat)
+    this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
 
     
 return !0 }
