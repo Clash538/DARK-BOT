@@ -1,16 +1,21 @@
 # DARK-BOT
 ![image](https://user-images.githubusercontent.com/118075131/227137187-79f9a514-b1b7-4c1e-bff6-371976ffea49.png)
+
+┍──━──━─────────┙◆┕───────━──━──┑
 BIENVENIDO SEAN TODOS DE PARTE DE "💲💲LA REPUBLICA DE LACRAS💲💲"
 
 by 𝐇𝐄𝐑𝐌𝐀𝐍𝐃𝐀 𝐃𝐄 𝐀𝐂𝐄𝐑𝐎
 
 by 𝕮𝖆𝖗𝖑𝖔𝖘-𝖔𝖋𝖈
+┕──━──━────────┑◆┍────────━──━──┙
 
+▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
 /*AQUI ENCONTRARAN LA APLICACIÓN DE 🟡TERMUX🟡*/
 
 https://play.google.com/store/apps/details?id=com.termux
 
 ..todos los derechos reservados a termux❗
+▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
 
 ⚠️NOTA⚠️...DEBEN INSTALARLA Y DARLE EN PERMITIR EL USO DE ARCHIVO 📂 🗄️
 
@@ -22,7 +27,7 @@ CODIGOS PARA INSTALAR DEBEN DE SEGUIR LOS CODIGOS UNO POR UNO. NO TODOS A LA VEZ
 
 
 
-
+■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■
 
 > —◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*
 
@@ -58,9 +63,34 @@ termux-setup-storange
 
 > npm start
 
+■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■
+
+
 
 ⚠️NOTA DE RECORDATOR❗❗
 
-Cada vez que alla un error deben de dar tiempo para encontrarlo y una ves encontrado el error sera solucionado se les quiere 
+◥◢◣◤Cada vez que alla un error deben de dar tiempo para encontrarlo y una ves encontrado el error sera solucionado se les quiere ◢◥◤◣
+
+
+
+*╭━━❍𝕯𐊅ℜ𝖐-𝕭𝖔𝖙⍉ꤲ❍━━╮
+*┃ ┃ │❍  ACTUALIZACIÓN ❍*
+*┃╭━━━━━━━━━━━━━━━━╾•*
+*┃┃  ⋄ CORRECCIÓN DE ERRORES:
+*┃┃ ❍ ya se pueden escuchar los audios   ❍*
+*┃┃  ❍  ❍*
+*┃┃  ⋄ NUEVAS FUNCIONES:
+*┃┃ ❍ Se a agregado nuevo audio barnei ❍*
+*┃┣━━━━━━━━━━━━━━━━╾•*
+*┃┃ ⋄ 𝕮𝖆𝖗𝖑𝖔𝖘-𝖔𝖋𝖈*
+*┃┃ ⋄ 𝕯𝖎𝖘𝖙𝖗𝖎𝖙𝖔 𝖉𝖊 𝖕𝖚𝖗𝖆𝖘 𝖑𝖆𝖈𝖗𝖆𝖘
+*┃╰━━━━━━━━━━━━━━━━╾•*
+*╰━━━╼𝕯𐊅ℜ𝖐-𝕭𝖔𝖙⍉ꤲ╾━━━╯*
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
+
+NOTA SOBRE FUNCIONES❗❗
+
+
 
 
