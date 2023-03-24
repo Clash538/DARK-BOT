@@ -11,8 +11,11 @@ by 𝕮𝖆𝖗𝖑𝖔𝖘-𝖔𝖋𝖈
 
 ┕──━──━────────┑◆┍────────━──━──┙
 
+❖
 
+❖
 
+❖
 
 ▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
 
@@ -24,7 +27,11 @@ https://play.google.com/store/apps/details?id=com.termux
 
 ▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
 
+❖
 
+❖
+
+❖
 
 ⚠️NOTA⚠️...DEBEN INSTALARLA Y DARLE EN PERMITIR EL USO DE ARCHIVO 📂 🗄️
 
@@ -32,9 +39,9 @@ CODIGOS PARA INSTALAR DEBEN DE SEGUIR LOS CODIGOS UNO POR UNO. NO TODOS A LA VEZ
 
 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 AH INTRODUCIR EN TERMUX
 
+❖
 
-
-
+❖
 
 ■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■
 
@@ -74,13 +81,19 @@ termux-setup-storange
 
 ■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■
 
+❖
 
+❖
+
+❖
 
 ⚠️NOTA DE RECORDATOR❗❗
 
 ◥◢◣◤Cada vez que alla un error deben de dar tiempo para encontrarlo y una ves encontrado el error sera solucionado se les quiere ◢◥◤◣
 
+❖
 
+❖
 
 *╭━━❍𝕯𐊅ℜ𝖐-𝕭𝖔𝖙⍉ꤲ❍━━╮
 
@@ -109,6 +122,9 @@ termux-setup-storange
 
 *╰━━━╼𝕯𐊅ℜ𝖐-𝕭𝖔𝖙⍉ꤲ╾━━━╯*
 
+❖
+
+❖
 
 ◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
 
