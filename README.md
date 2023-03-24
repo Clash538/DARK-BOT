@@ -16,16 +16,18 @@ CODIGOS PARA INSTALAR DEBEN DE SEGUIR LOS CODIGOS UNO POR UNO. NO TODOS A LA VEZ
 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 AH INTRODUCIR EN TERMUX
 
 
-let (termuxT;
 
 
 
+
+
+> —◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*
 
 > cd
 
-> termux-setup-storage
+termux-setup-storange
 
-> apt update
+> apt update 
 
 > pkg upgrade 
 
