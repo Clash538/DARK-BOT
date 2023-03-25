@@ -45,10 +45,11 @@ CODIGOS PARA INSTALAR DEBEN DE SEGUIR LOS CODIGOS UNO POR UNO. NO TODOS A LA VEZ
 
 ❖
 
-`COMANDOS TERMUX🌐`
+
 
 ■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■█■
 
+`COMANDOS TERMUX🌐`
 ````bash
 
 > cd
