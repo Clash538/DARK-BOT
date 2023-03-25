@@ -313,40 +313,6 @@ let menuB = `
 ├➢${usedPrefix}cosplay
 └────ׂ─ׂ─ׂ─ׂ───
 
-/*┌──「🔞𝐂𝐨𝐦𝐚𝐧𝐝𝐨𝐬 +𝟏𝟖」
-├➢_${usedPrefix}pack_
-├➢_${usedPrefix}pack2_
-├➢_${usedPrefix}pack3_
-├➢_${usedPrefix}videoxxx_
-├➢_${usedPrefix}tiktokxxx_
-├➢_${usedPrefix}tetas_
-├➢_${usedPrefix}booty_
-├➢_${usedPrefix}ecchi_
-├➢_${usedPrefix}furro_
-├➢_${usedPrefix}imagenlesbians_
-├➢_${usedPrefix}panties_
-├➢_${usedPrefix}pene_
-├➢_${usedPrefix}porno_
-├➢_${usedPrefix}randomxxx_
-├➢_${usedPrefix}pechos_
-├➢_${usedPrefix}yaoi_
-├➢_${usedPrefix}yaoi2_
-├➢_${usedPrefix}yuri_
-├➢_${usedPrefix}yuri2_
-├➢_${usedPrefix}trapito_
-├➢_${usedPrefix}hentai_
-├➢_${usedPrefix}nsfwloli_
-├➢_${usedPrefix}nsfworgy_
-├➢_${usedPrefix}nsfwfoot_
-├➢_${usedPrefix}nsfwass_
-├➢_${usedPrefix}nsfwbdsm_
-├➢_${usedPrefix}nsfwcum_
-├➢_${usedPrefix}nsfwero_
-├➢_${usedPrefix}nsfwfemdom_
-├➢_${usedPrefix}nsfwglass_
-├➢_${usedPrefix}hentaipdf *<texto>*_
-└────ׂ─ׂ─ׂ─ׂ──*/
-
 ┌──「𝐄𝐟𝐞𝐜𝐭𝐨𝐬 𝐝𝐞 𝐚𝐮𝐝𝐢𝐨𝐬」
 ├➢*- 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴 𝙰 𝚄𝙽 𝙰𝚄𝙳𝙸𝙾 𝙾 𝙽𝙾𝚃𝙰 𝙳𝙴 𝚅𝙾𝚉*
 ├➢_${usedPrefix}bass_
