@@ -55,7 +55,7 @@ rows: [
 {title: lenguajeGB['smsLista19'](), rowId: `${usedPrefix}stickermenu`},
 {title: lenguajeGB['smsLista20'](), rowId:`${usedPrefix}animemenu`},
 {title: lenguajeGB['smsLista21'](), rowId:`${usedPrefix}soloparaelpropietario`},  
-{title: lenguajeGB['smsLista22'](), rowId: `${usedPrefix}hornymenu`}
+/*{title: lenguajeGB['smsLista22'](), rowId: `${usedPrefix}hornymenu`}*/
 ]},{	
 title: comienzo + '🗂️ ENABLE/DISABLE ' + fin,
 rows: [
