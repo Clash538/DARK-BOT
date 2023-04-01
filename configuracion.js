@@ -108,7 +108,7 @@ global.codex = `CARLOS-OFC`
 global.igfg = '𝕯𐊅ℜ𝖐-𝕭𝖔𝖙⍉ꤲ'
 global.wait = '*[❕] CARGANDO POR FAVOR ESPERA...*'
 //-------------------
-global.md = 'https://chat.whatsapp.com/LGukKTl7A8FDCzEWwerVlD'
+global.md = 'https://chat.whatsapp.com/CtvAxp0WEM39QTsZxSA7V0'
 global.dorramd = md
 global.tarje = 'Banesco'
 global.yt = 'PRONTO'

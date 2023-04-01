@@ -74,7 +74,7 @@ var _0x3fb854=_0x5872;function _0x5872(_0x297e08,_0x4da48b){var _0x54e980=_0x54e
 
 /*------------------------------------------------*/
 
-global.authFile = `Dorrat-BotSession`
+global.authFile = `SESSION-DARK-BOT`
 const { state, saveState, saveCreds } = await useMultiFileAuthState(global.authFile)
 const msgRetryCounterMap = MessageRetryMap => { }
 let { version } = await fetchLatestBaileysVersion();
@@ -89,7 +89,7 @@ getMessage: async (key) => ( opts.store.loadMessage(/** @type {string} */(key.re
 msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
-browser: ['Dorrat-Bot','Safari','9.7.0'],
+browser: ['DARK-BOT','Safari','9.7.0'],
 version   
 }
 
@@ -164,13 +164,13 @@ return false
 
 function purgeSession() {
 let prekey = []
-let directorio = readdirSync("./Dorrat-BotSession")
+let directorio = readdirSync("./SESSION-DARK-BOT")
 let filesFolderPreKeys = directorio.filter(file => {
 return file.startsWith('pre-key-') || file.startsWith('session-') || file.startsWith('sender-') || file.startsWith('app-')
 })
 prekey = [...prekey, ...filesFolderPreKeys]
 filesFolderPreKeys.forEach(files => {
-unlinkSync(`./Dorrat-BotSession/${files}`)
+unlinkSync(`./SESSION-DARK-BOT/${files}`)
 })
 } 
 
@@ -199,7 +199,7 @@ console.log(chalk.red(lenguajeGB.smspurgeSessionSB3() + err))
 }}
 
 function purgeOldFiles() {
-const directories = ['./Dorrat-BotSession/', './jadibts/']
+const directories = ['./SESSION-DARK-BOT/', './jadibts/']
 const oneHourAgo = Date.now() - (1000 * 60 * 60) //60 min 
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
