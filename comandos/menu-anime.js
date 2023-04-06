@@ -59,7 +59,7 @@ readmore: readMore
 }
 text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 let str = `
-┌──「𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-」─
+┌──「𝕯𐊅ℜ𝖐-𝕭𝖔𝖙⍉ꤲ-」─
 ├➢ 𝐇𝐎𝐋𝐀 ${name}💖✨ 
 ├➢ 📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}
 ├➢ ⏱️ 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}
@@ -117,7 +117,7 @@ let str = `
 ├➢⛪${usedPrefix}gawrgura
 └────ׂ─ׂ─ׂ─ׂ───
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/DIEGO-OFC/DORRAT-BOT-MD', '📎𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/Clash538/DARK-BOT', '📎𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝐌𝐄𝐍𝐔', '/menu'], 
 ['𝐄𝐒𝐓𝐀𝐃𝐎','/estado'],
 
