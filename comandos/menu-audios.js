@@ -16,6 +16,18 @@ let str = `
 *[❕] ALGUNOS AUDIOS SON NUEVOS, SI VE ALGUN TIPO DE FALLA REPÓRTELO CON #reporte <texto>*
 
 ┌「🎵𝐀𝐔𝐃𝐈𝐎𝐒」
+├➢▶️ _hola_
+├➢▶️ _bienvenido_
+├➢▶️ _Rumba_
+├➢▶️ _Chad_
+├➢▶️ _Mamaguevo_
+├➢▶️ _Barni_
+├➢▶️ _Marico_
+├➢▶️ _Maduro_
+├➢▶️ _Chavez_
+├➢▶️ _Patria_
+├➢▶️ _Puta_
+├➢▶️ _si capitan_
 ├➢▶️ _Quien es tu sempai botsito 7w7_
 ├➢▶️ _Te diagnostico con gay_
 ├➢▶️ _A nadie le importa_
@@ -38,7 +50,7 @@ let str = `
 ├➢▶️ _Vete a la vrg_
 ├➢▶️ _Pasa pack Bot_
 ├➢▶️ _Atencion grupo_
-├➢▶️_Marica quien_
+├➢▶️ _Marica quien_
 ├➢▶️ _Murio el grupo_
 ├➢▶️ _Oh me vengo_
 ├➢▶️ _tio que rico_
@@ -47,7 +59,7 @@ let str = `
 ├➢▶️ _Sexo_
 ├➢▶️ _Hola_
 ├➢▶️ _Un pato_
-├➢▶️_Nyanpasu_
+├➢▶️ _Nyanpasu_
 ├➢▶️ _Te amo_
 ├➢▶️ _Yamete_
 ├➢▶️ _Bañate_
@@ -65,7 +77,7 @@ let str = `
 ├➢▶️ _a_
 └────ׂ─ׂ─ׂ─ׂ──
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/DIEGO-OFC/DORRAT-BOT-MD', '📎𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/Clash538/DARK-BOT', '📎𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']
 ], m)
 }}
