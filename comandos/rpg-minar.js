@@ -16,9 +16,9 @@ let info = `
 global.db.data.users[m.sender].lastmiming = new Date * 1
 
 
- {
+ 
      quoted: m
- })}
+ )}
 handler.help = ['minar']
 handler.tags = ['xp']
 handler.command = ['minar', 'miming', 'mine'] 
