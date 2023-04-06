@@ -1,4 +1,4 @@
-/*gracias por usar el bot, si quieres rescanear el código qr borra la carpeta DORRATSESSION, DAR RESTAR O ESTART
+/*gracias por usar el bot, si quieres rescanear el código qr borra la carpeta SESSION-DARK-BOT, DAR RESTAR O ESTART
 
 *—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*
  > cd
