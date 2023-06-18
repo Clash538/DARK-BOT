@@ -38,8 +38,15 @@ setupMaster({
 exec: args[0],
 args: args.slice(1), })
 let p = fork()
+let rep;
 p.on('message', data => {
-console.log('🔶MIENTRAS ESTA ACTIVO EL BOT NO PUEDES USAR LA CONSOLA🔶', data)
+console.log('╔══════════════════════════════════════════╗')
+console.log('    ════════════‼️BOT ACTIVO‼️ ════════════')
+console.log("🟡 COMANDO :" , data ,' <== DENEGADO' )
+console.log('⚠️ PRESIONA CTRL + Z para APAGAR el bot ⚠️')
+console.log("⚠️ PARA INICIAR EL BOT ESCRIBE > npm start" );
+console.log('    ════════════♦️𝕯𐊅ℜ𝖐-𝕭𝖔𝖙⍉ꤲ♦️═════════════')
+console.log('╚══════════════════════════════════════════╝')
 switch (data) {
 case 'reset':
 p.process.kill()
