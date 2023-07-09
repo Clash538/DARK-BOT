@@ -45,6 +45,7 @@ console.log('    ════════════‼️BOT ACTIVO‼️ ═�
 console.log("🟡 COMANDO :" , data ,' <== DENEGADO' )
 console.log('⚠️ PRESIONA CTRL + Z para APAGAR el bot ⚠️')
 console.log("⚠️ PARA INICIAR EL BOT ESCRIBE > npm start" );
+console.log("⭐ PARA PERDIR CODIGOS QR NUEVAMENTE DEBES ESCRIBIR rm -r SESSION-DARK-BOT ⭐")
 console.log('    ════════════♦️𝕯𐊅ℜ𝖐-𝕭𝖔𝖙⍉ꤲ♦️═════════════')
 console.log('╚══════════════════════════════════════════╝')
 switch (data) {
